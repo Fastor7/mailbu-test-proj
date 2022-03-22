@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "../../axios/axios";
 
 export const request = createAsyncThunk("home/request", async () => {
-  const response = await axios.get("https://mailbu.team.fastor.in/home/news");
+  const response = await axios.get("htt://localhost:8080/home/news");
   return response.data;
 });
 
