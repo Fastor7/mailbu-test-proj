@@ -1,0 +1,16 @@
+html { font-size: calc( 16px + (24 - 16) * (100vw - 400px) / (800 - 400) ); }
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.App {
+  margin:0%;
+  padding: 0%;
+  box-sizing: border-box;
+  
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+} 
