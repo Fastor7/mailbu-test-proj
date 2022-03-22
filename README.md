@@ -2,7 +2,7 @@
 <p>
 </p>
 
-### ✨ [Demo](www.google.com)
+### ✨ [Demo](https://mailbu-test-proj.web.app)
 
 ## Install
 
@@ -19,6 +19,3 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
