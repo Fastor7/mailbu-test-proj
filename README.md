@@ -2,7 +2,7 @@
 <p>
 </p>
 
-### ✨ [Demo](https://mailbu-test-proj.web.app)
+### ✨ [Click here to view Demo](https://mailbu-test-proj.web.app)
 
 ## Install
 
